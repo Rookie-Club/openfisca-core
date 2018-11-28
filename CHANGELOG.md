@@ -1,6 +1,6 @@
 # Changelog
 
-# 25.0 [#781](https://github.com/openfisca/openfisca-core/pull/781)
+# 25.0.0 [#781](https://github.com/openfisca/openfisca-core/pull/781)
 
 #### Breaking changes
 
