@@ -1,6 +1,6 @@
 # Changelog
 
-# 25.0 [#781](https://github.com/openfisca/openfisca-core/pull/781)
+# 25.0.0 [#781](https://github.com/openfisca/openfisca-core/pull/781)
 
 #### Breaking changes
 
@@ -115,6 +115,7 @@
 #### Architecture changes
 
   - Move the complex initialisation logics (for JSON-like inputs) to `SimulationBuilder`, away from the `Simulation` and `Entity` classes
+
 
 ## 24.11.0 [#791](https://github.com/openfisca/openfisca-core/pull/791)
 
